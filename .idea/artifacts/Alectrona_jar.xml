@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Alectrona:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Alectrona_jar</output-path>
+    <root id="archive" name="Alectrona.jar">
+      <element id="module-output" name="Alectrona" />
+    </root>
+  </artifact>
+</component>
